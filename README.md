@@ -1,6 +1,4 @@
-Got you — here’s a **clean, single-block, perfectly formatted README.md** (no broken code blocks, no IDs, GitHub-ready). Just copy-paste directly:
 
----
 
 ```markdown
 # 🚀 PyGit — A Minimal Git Implementation in Python
